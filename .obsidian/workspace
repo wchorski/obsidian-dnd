@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "f75545ffdb905e23",
+    "type": "split",
+    "children": [
+      {
+        "id": "80ea0fe99a02a847",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Matter_Campaign/Clans/Circle_Jerkers.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "194dfc1ace00f323",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2ec59e4607dde45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9db857267304b0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "19a013ef1f87fd03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79b072e6799911ec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a451a85339815a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "b82fc224d2a538de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e66dd49c27c362",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Matter_Campaign/Clans/Circle_Jerkers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8e8e95d4f20a1f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Matter_Campaign/Clans/Circle_Jerkers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5d8b8108e8647b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a4a349ff10bb4b82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Matter_Campaign/Clans/Circle_Jerkers.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "80ea0fe99a02a847",
+  "lastOpenFiles": [
+    "Matter_Campaign/Clans/Iron_Circle.md",
+    "Tuts/Markdown Cheatsheet.md",
+    "Tuts/Navigation.md",
+    "DungeonMaster/ReadMe.md.md",
+    "DungeonMaster/TaskList.md",
+    "Matter_Campaign/Clans/Circle_Jerkers.md"
+  ]
+}
