@@ -4,31 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "aa62bece2c664d07",
+        "id": "4426be24f6b0d54b",
         "type": "split",
         "children": [
           {
-            "id": "598d14c26033ae47",
+            "id": "4cad8a2395cf5136",
             "type": "leaf",
-            "dimension": 61.74757281553398,
+            "dimension": 43.440233236151606,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matter Campaign📁/Players👤/Broly.md",
+                "file": "Matter Campaign📁/Players👤/Jianni.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a186851f0617faa4",
+            "id": "f3da0b17f6fd2d1d",
             "type": "split",
-            "dimension": 38.25242718446602,
+            "dimension": 56.559766763848394,
             "children": [
               {
                 "id": "14da8f2008b61058",
                 "type": "leaf",
-                "dimension": 59.973753280839894,
                 "pinned": true,
                 "state": {
                   "type": "graph",
@@ -39,7 +38,6 @@
               {
                 "id": "b175c07d52832374",
                 "type": "leaf",
-                "dimension": 40.0262467191601,
                 "pinned": true,
                 "state": {
                   "type": "markdown",
@@ -119,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matter Campaign📁/Players👤/Broly.md",
+                "file": "Matter Campaign📁/Players👤/Jianni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matter Campaign📁/Players👤/Broly.md",
+                "file": "Matter Campaign📁/Players👤/Jianni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matter Campaign📁/Players👤/Broly.md"
+                "file": "Matter Campaign📁/Players👤/Jianni.md"
               }
             }
           },
@@ -209,17 +207,17 @@
       }
     ]
   },
-  "active": "598d14c26033ae47",
+  "active": "4cad8a2395cf5136",
   "lastOpenFiles": [
+    "Matter Campaign📁/Matter🌐.md",
+    "Matter Campaign📁/Players👤/Lucas.md",
+    "Matter Campaign📁/Sessions📝/Session 999.md",
+    "Matter Campaign📁/Players👤/img-.md",
+    "Matter Campaign📁/NPCs🤖/Celtis.md",
+    "templates/_NPC.md",
+    "Matter Campaign📁/Players👤/Broly.md",
     "Matter Campaign📁/Players👤/Jianni.md",
     "Matter Campaign📁/Players👤/LoThaRRan.md",
-    "Matter Campaign📁/Players👤/Lucas.md",
-    "Matter Campaign📁/Players👤/Silver Liota.md",
-    "templates/_NPC.md",
-    "Matter Campaign📁/NPCs🤖/Brenna.md",
-    "Matter Campaign📁/Sessions📝/Session 999.md",
-    "templates/_Player.md",
-    "Tuts/build tips.md",
-    "home.md"
+    "Matter Campaign📁/Players👤/Silver Liota.md"
   ]
 }
