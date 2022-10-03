@@ -5,6 +5,9 @@
 ![img-Jianni](Matter%20Campaign📁/Players👤/_attachments/img-Jianni.png)
 
 ![img-Jianni](Matter%20Campaign📁/Players👤/_attachments/img-Jianni.png)
+
+![img-Jianni](_attachments/img-Jianni.png)
+
 ![Jianni_lvl_5](Matter%20Campaign📁/Players👤/_attachments/Jianni_lvl_5.pdf)
 
 ---
