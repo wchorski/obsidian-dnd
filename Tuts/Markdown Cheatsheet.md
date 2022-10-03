@@ -9,6 +9,8 @@ move line up / down
 alt + up arrow
 alt + down arrow
 ```
+strike through - ~~ceramic grenade (roll ?) ~~
+`~~ceramic grenade (roll ?) ~~`
 
 copy line up / down
 ```
@@ -19,7 +21,7 @@ alt + shift + down arrow
 toggle preview / editor mode 
 `ctrl + tab`
 
-start from template
+start from template - can drop into any new or existing file
 `ctrl + t` -> search for template in `./templates` folder
 
 ---
@@ -30,7 +32,7 @@ start from template
 or 
 auto complete / search for other link / tag
 `![[Lucas]]` -> then start typing file name inside the square brackets (example below)
-![[Lucas]]
+![[Matter Campaign📁/Players👤/Lucas]]
 
 ---
 ## block quote
@@ -93,6 +95,7 @@ visible line break
 | num 3  | three       |
 ```
 
-
+### credits
+character sheet - [Captain Anonymous]([A Pen by Captain Anonymous (codepen.io)](https://codepen.io/anon/pen/dWKdvm/)
 
 

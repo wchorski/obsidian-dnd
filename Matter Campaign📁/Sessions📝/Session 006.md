@@ -1,0 +1,70 @@
+-   What is Tor's Hold Dwarvin City?
+	-   City of warriors
+	-   Very rash and initially defensive.
+
+-   Johnny gets a new Battle Axe
+-   We go to the potion shop
+	-   I got a grenade
+
+-   We make our way north to the Druid Grove
+	-   We reach a clearing in the forest
+	-   Alter in the center made of stone
+	-   We meet Illyana
+		-   Elvin
+		-   780 y/o
+		-   White hair
+		-   She things Dar Gremmith is a cool guy
+		-   "reach out to the 'Woodsinger Camp Elves' - possible allies against Iron Circle
+			-   They know where the 3rd Druid is
+		-   She knows about the Chained Door in the Abandoned Mine
+		-   She knows about the Raven Witch
+			-   Dark spell caster
+		-   Massive Mountains down to the south
+			-   Rolling deserts
+			-   Far away on the ocean is the Iron Circle
+			-   Nazir Redthorn - General of the Iron Circle
+			-   Arcane tricks to summon beasts
+			-   We don't know why the Iron Circle
+			-   Communication - rangers over in Darden know how to talk long distances
+			-   STONE ALTER
+				-   There are more to find.
+				-   They connect between each other for communication
+			-   She knows about Tor's Hold
+				-   Toad Wallow -> Bullywuds
+				-   Tells of Bullywuds infesting their lands.
+		-   Rythan - Lillyana's friend
+			-   Giant hooded man
+		-   Silva
+			-   Gets a Navigation Star map lens
+		-   We all drink the Druid Juice
+			-   I have a semi "bad trip"
+			-   Dwarf dudes crit on the mushroom drink lol
+-   We walk up to Tor's Hold
+	-   We help them rebuild a battle torn bridge
+	-   ToadWillow
+		-   The tunnel is dark, dank, swampy
+		-   We wipe out one channel.
+			-   Dragon skull.  I got a tooth
+		-   East side of the tunnels
+			-   Big ugly battle toad
+			-   Lothar destroys him with his special shot
+			-   Find all stolen tools from Tor's Hold
+
+-   Back to Tor's Hold
+	-   We are in the tavern armed men
+	-   We see the blacksmith (not much for me)
+	- AEO the first dragon
+	- Drakar. Big scary black dragon
+	- There use to be a hold in the sky that dragons fell
+
+-   Dardun
+	-   We wipe out the Iron Circle dudes from the local tavern
+	-   We move south to clear out the local Winery
+	-   We kick in the 2 doors
+	-   We clear out the Winery
+	-   More iron circle fiends in the orchard.
+		-   We smoke them out with a hay fire
+		-   We intimidate them
+		-   We clean them out and save the hostiges
+	-   We meet up with some "Rangers" in the 2nd orchard
+	-   "The Wood Singers"

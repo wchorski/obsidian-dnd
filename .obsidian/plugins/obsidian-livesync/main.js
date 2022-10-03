@@ -10355,8 +10355,8 @@ var ObsidianLiveSyncSettingTab = class extends import_obsidian5.PluginSettingTab
     const containerInformationEl = containerEl.createDiv();
     const h3El = containerInformationEl.createEl("h3", { text: "Updates" });
     const informationDivEl = containerInformationEl.createEl("div", { text: "" });
-    const manifestVersion = "0.15.7";
-    const updateInformation = "### 0.15.0\n- Outdated configuration items have been removed. \n- Setup wizard has been implemented!\n\nI appreciate for reviewing and giving me advice @Pouhon158!\n\n#### Minors\n- 0.15.1 Missed the stylesheet.\n- 0.15.2 The wizard has been improved and documented!\n- 0.15.3 Fixed the issue about locking/unlocking remote database while rebuilding in the wizard.\n- 0.15.4 Fixed issues about asynchronous processing (e.g., Conflict check or hidden file detection)\n- 0.15.5 Add new features for setting Self-hosted LiveSync up more easier.\n- 0.15.6 File tracking logic has been refined.\n- 0.15.7 Fixed bug about renaming file.\n\n### 0.14.1\n- The target selecting filter was implemented.\n  Now we can set what files are synchronised by regular expression.\n- We can configure the size of chunks.\n  We can use larger chunks to improve performance.\n  (This feature can not be used with IBM Cloudant)\n-  Read chunks online.\n  Now we can synchronise only metadata and retrieve chunks on demand. It reduces local database size and time for replication.\n- Added this note.\n- Use local chunks in preference to remote them if present,\n\n#### Recommended configuration for Self-hosted CouchDB\n- Set chunk size to around 100 to 250 (10MB - 25MB per chunk)\n- *Set batch size to 100 and batch limit to 20 (0.14.2)*\n- Be sure to `Read chunks online` checked.\n\n#### Minors\n- 0.14.2 Fixed issue about retrieving files if synchronisation has been interrupted or failed\n- 0.14.3 New test items have been added to `Check database configuration`.\n- 0.14.4 Fixed issue of importing configurations.\n- 0.14.5 Auto chunk size adjusting implemented.\n- 0.14.6 Change Target to ES2018\n- 0.14.7 Refactor and fix typos.\n- 0.14.8 Refactored again. There should be no change in behaviour, but please let me know if there is any.\n\n... To continue on to `updates_old.md`.";
+    const manifestVersion = "0.15.8";
+    const updateInformation = "### 0.15.0\n- Outdated configuration items have been removed. \n- Setup wizard has been implemented!\n\nI appreciate for reviewing and giving me advice @Pouhon158!\n\n#### Minors\n- 0.15.1 Missed the stylesheet.\n- 0.15.2 The wizard has been improved and documented!\n- 0.15.3 Fixed the issue about locking/unlocking remote database while rebuilding in the wizard.\n- 0.15.4 Fixed issues about asynchronous processing (e.g., Conflict check or hidden file detection)\n- 0.15.5 Add new features for setting Self-hosted LiveSync up more easier.\n- 0.15.6 File tracking logic has been refined.\n- 0.15.7 Fixed bug about renaming file.\n- 0.15.8 Fixed bug about deleting empty directory, weird behaviour on boot-sequence on mobile devices.\n\n### 0.14.1\n- The target selecting filter was implemented.\n  Now we can set what files are synchronised by regular expression.\n- We can configure the size of chunks.\n  We can use larger chunks to improve performance.\n  (This feature can not be used with IBM Cloudant)\n-  Read chunks online.\n  Now we can synchronise only metadata and retrieve chunks on demand. It reduces local database size and time for replication.\n- Added this note.\n- Use local chunks in preference to remote them if present,\n\n#### Recommended configuration for Self-hosted CouchDB\n- Set chunk size to around 100 to 250 (10MB - 25MB per chunk)\n- *Set batch size to 100 and batch limit to 20 (0.14.2)*\n- Be sure to `Read chunks online` checked.\n\n#### Minors\n- 0.14.2 Fixed issue about retrieving files if synchronisation has been interrupted or failed\n- 0.14.3 New test items have been added to `Check database configuration`.\n- 0.14.4 Fixed issue of importing configurations.\n- 0.14.5 Auto chunk size adjusting implemented.\n- 0.14.6 Change Target to ES2018\n- 0.14.7 Refactor and fix typos.\n- 0.14.8 Refactored again. There should be no change in behaviour, but please let me know if there is any.\n\n... To continue on to `updates_old.md`.";
     const lastVersion = ~~(versionNumberString2Number(manifestVersion) / 1e3);
     const tmpDiv = createSpan();
     tmpDiv.addClass("sls-header-button");
@@ -12888,8 +12888,8 @@ var ObsidianLiveSyncPlugin = class extends import_obsidian8.Plugin {
   async onload() {
     setLogger(this.addLog.bind(this));
     Logger("loading plugin");
-    const manifestVersion = "0.15.7";
-    const packageVersion = "0.15.7";
+    const manifestVersion = "0.15.8";
+    const packageVersion = "0.15.8";
     Logger(`Self-hosted LiveSync v${manifestVersion} ${packageVersion} `);
     const lsKey = "obsidian-live-sync-ver" + this.getVaultName();
     const last_version = localStorage.getItem(lsKey);
@@ -13436,6 +13436,12 @@ var ObsidianLiveSyncPlugin = class extends import_obsidian8.Plugin {
       this.watchedFileEventQueue = [];
       for (const queue of procs) {
         const file = queue.args.file;
+        const key = `file-last-proc-${queue.type}-${file.path}`;
+        const last = Number(await this.localDatabase.kvDB.get(key) || 0);
+        if (file instanceof import_obsidian8.TFile && file.stat.mtime == last) {
+          Logger(`File has been already scanned on ${queue.type}, skip: ${file.path}`, LOG_LEVEL.VERBOSE);
+          continue;
+        }
         const cache = queue.args.cache;
         if ((queue.type == "CREATE" || queue.type == "CHANGED") && file instanceof import_obsidian8.TFile) {
           await this.updateIntoDB(file, false, cache);
@@ -13449,6 +13455,9 @@ var ObsidianLiveSyncPlugin = class extends import_obsidian8.Plugin {
         }
         if (queue.type == "RENAME") {
           await this.watchVaultRenameAsync(file, queue.args.oldPath);
+        }
+        if (file instanceof import_obsidian8.TFile) {
+          await this.localDatabase.kvDB.set(key, file.stat.mtime);
         }
       }
       this.refreshStatusText();
@@ -13676,8 +13685,10 @@ var ObsidianLiveSyncPlugin = class extends import_obsidian8.Plugin {
     }
   }
   async deleteVaultItem(file) {
-    if (!this.isTargetFile(file))
-      return;
+    if (file instanceof import_obsidian8.TFile) {
+      if (!this.isTargetFile(file))
+        return;
+    }
     const dir = file.parent;
     if (this.settings.trashInsteadDelete) {
       await this.app.vault.trash(file, false);
@@ -14221,7 +14232,7 @@ var ObsidianLiveSyncPlugin = class extends import_obsidian8.Plugin {
           await this.pullFile(e3, filesStorage, false, null, false);
           Logger(`Check or pull from db:${e3} OK`);
         } else {
-          Logger(`entry not found, maybe deleted:${e3}`);
+          Logger(`entry not found, maybe deleted (it is normal behavior):${e3}`);
         }
       });
     }

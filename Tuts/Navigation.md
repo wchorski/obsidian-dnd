@@ -11,5 +11,6 @@ I want to link notes but I don't want to clutter the graph
 
 [Pretty Name](<URL>)
 ```
+preview link without clicking -> `hold ctrl & hover mouse`
 
 

@@ -40,7 +40,7 @@
   "disableRequestURI": true,
   "skipOlderFilesOnSync": true,
   "checkConflictOnlyOnOpen": true,
-  "syncInternalFiles": true,
+  "syncInternalFiles": false,
   "syncInternalFilesBeforeReplication": false,
   "syncInternalFilesIgnorePatterns": "\\/node_modules\\/, \\/\\.git\\/, \\/obsidian-livesync\\/",
   "syncInternalFilesInterval": 60,
@@ -49,7 +49,7 @@
   "lastReadUpdates": 0,
   "deleteMetadataOfDeletedFiles": false,
   "syncIgnoreRegEx": "",
-  "syncOnlyRegEx": "",
+  "syncOnlyRegEx": "\\Untitled*.md$",
   "customChunkSize": 0,
   "readChunksOnline": true
 }

@@ -1,33 +1,69 @@
 {
   "main": {
-    "id": "f75545ffdb905e23",
+    "id": "4a3b8b24b3cada94",
     "type": "split",
     "children": [
       {
-        "id": "80ea0fe99a02a847",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Matter_Campaign/Clans/Circle_Jerkers.md",
-            "mode": "source",
-            "source": false
+        "id": "aa62bece2c664d07",
+        "type": "split",
+        "children": [
+          {
+            "id": "598d14c26033ae47",
+            "type": "leaf",
+            "dimension": 64.27184466019418,
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a186851f0617faa4",
+            "type": "split",
+            "dimension": 35.728155339805824,
+            "children": [
+              {
+                "id": "14da8f2008b61058",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              },
+              {
+                "id": "b175c07d52832374",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Matter Campaign📁/Sessions📝/Session 999.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "direction": "horizontal"
           }
-        }
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "194dfc1ace00f323",
+    "id": "4f2281ba5f62a360",
     "type": "split",
     "children": [
       {
-        "id": "f2ec59e4607dde45",
+        "id": "551422e6dd36f922",
         "type": "tabs",
         "children": [
           {
-            "id": "d9db857267304b0f",
+            "id": "ce9212a4f319ab25",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +71,12 @@
             }
           },
           {
-            "id": "19a013ef1f87fd03",
+            "id": "635ea0a9d154afbb",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#chaotic_neutral",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +86,7 @@
             }
           },
           {
-            "id": "79b072e6799911ec",
+            "id": "9bb93794c5029be1",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,23 +97,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 176.0093288421631
   },
   "right": {
-    "id": "a451a85339815a09",
+    "id": "fc3964dfb16e28e2",
     "type": "split",
     "children": [
       {
-        "id": "b82fc224d2a538de",
+        "id": "e587ab797d4846f4",
         "type": "tabs",
         "children": [
           {
-            "id": "b1e66dd49c27c362",
+            "id": "dc38d46ea3b9b56b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matter_Campaign/Clans/Circle_Jerkers.md",
+                "file": "Matter Campaign📁/Sessions📝/Session 999.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +125,19 @@
             }
           },
           {
-            "id": "f8e8e95d4f20a1f4",
+            "id": "34135f8064867a77",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matter_Campaign/Clans/Circle_Jerkers.md",
+                "file": "Matter Campaign📁/Sessions📝/Session 999.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d5d8b8108e8647b5",
+            "id": "14deebe90aa7e16a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,13 +148,21 @@
             }
           },
           {
-            "id": "a4a349ff10bb4b82",
+            "id": "03afe9d789018385",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matter_Campaign/Clans/Circle_Jerkers.md"
+                "file": "Matter Campaign📁/Sessions📝/Session 999.md"
               }
+            }
+          },
+          {
+            "id": "7ee9510494eff3ff",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
             }
           }
         ]
@@ -128,13 +172,48 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "80ea0fe99a02a847",
+  "floating": {
+    "id": "7dc5bcacd4a5ef84",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2e04e4451e23f2c7",
+        "type": "window",
+        "children": [
+          {
+            "id": "0ba792fb834b6304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matter Campaign📁/Players👤/Lucas.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": -1465,
+        "y": 43,
+        "width": 892,
+        "height": 770,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b175c07d52832374",
   "lastOpenFiles": [
-    "Matter_Campaign/Clans/Iron_Circle.md",
-    "Tuts/Markdown Cheatsheet.md",
-    "Tuts/Navigation.md",
-    "DungeonMaster/ReadMe.md.md",
-    "DungeonMaster/TaskList.md",
-    "Matter_Campaign/Clans/Circle_Jerkers.md"
+    "Matter Campaign📁/Players👤/Untitled.md",
+    "Matter Campaign📁/Players👤/Broly.md",
+    "Matter Campaign📁/Players👤/Bromdan.md",
+    "Matter Campaign📁/Players👤/Jianni.md",
+    "Matter Campaign📁/Locations📌/Oran's Rest.md",
+    "Matter Campaign📁/Players👤/LoThaRRan.md",
+    "_index.md",
+    "Matter Campaign📁/Players👤/Silver Liota.md",
+    "Matter Campaign📁/Players👤/Lucas.md",
+    "templates/_Player.md"
   ]
 }
