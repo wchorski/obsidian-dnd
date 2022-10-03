@@ -1,5 +1,5 @@
 [build]
-command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
+command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/wchorski/obsidian-zola.git __site && __site/run.sh"
 publish = "public"
 
 [build.environment]
@@ -47,7 +47,7 @@ HOME_GRAPH = "y"
 PAGE_GRAPH = "y"
 
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
-SIDEBAR_COLLAPSED = ""
+SIDEBAR_COLLAPSED = "true"
 
 # (Optional, default blank) Additional footer content.
 FOOTER = " © William Chorski"

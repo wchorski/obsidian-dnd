@@ -29,3 +29,5 @@ storming the castle
 10. [Circle Jerkers](Matter%20Campaign📁/Clans⚔/Circle%20Jerkers.md) come in and bust down the door to [Red Thorn](Matter%20Campaign📁/NPCs🤖/Red%20Thorn.md)'s  throne room
 	1. we immediately engage in combat
 	2. [Jianni](Matter%20Campaign📁/Players👤/Jianni.md) delivers the final blow to [Red Thorn](Matter%20Campaign📁/NPCs🤖/Red%20Thorn.md)
+11. players go to the second story of the castle
+	1. 
