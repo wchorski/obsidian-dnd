@@ -2,7 +2,7 @@
 | --------- | ----------------- | ----- | ------------- | ------- |
 | #player   | #dwarf  | #fighter | #chaotic_neutral | #level5 |
 
-![img-Lotharran](Matter%20Campaign📁/Players👤/_attachments/img-Lotharran.png)
+![img-Lotharran](_attachments/img-Lotharran.png)
 
 ### connections
 - brothers with [Bromdan](Matter%20Campaign📁/Players👤/Bromdan.md)
@@ -10,7 +10,7 @@
 - - [Oran's Rest](Matter%20Campaign📁/Locations📌/Oran's%20Rest.md) native
 
 ### character sheet
-![](Matter%20Campaign📁/Players👤/_attachments/LoThaRRan_Barr_-_lvl5%201.pdf)
+![LoThaRRan_Barr_-_lvl5](_attachments/LoThaRRan_Barr_-_lvl5.pdf)
 
 ---
 ### actions

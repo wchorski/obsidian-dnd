@@ -8,7 +8,7 @@
 - [Oran's Rest](Matter%20Campaign📁/Locations📌/Oran's%20Rest.md) native
 
 ### character sheet
-![](Matter%20Campaign📁/Players👤/_attachments/Bromdan_Barr_-_LV_5.pdf)
+![Bromdan_Barr_-_LV_5](_attachments/Bromdan_Barr_-_LV_5.pdf)
 
 ---
 ### actions

@@ -2,17 +2,14 @@
 | --------- | ----------------- | ----- | ------------- | ------- |
 | #player   | #half #elf #human | #bard | #chaotic_good | #level5 |
 
-![img-Jianni](Matter%20Campaign📁/Players👤/_attachments/img-Jianni.png)
-
-![img-Jianni](Matter%20Campaign📁/Players👤/_attachments/img-Jianni.png)
-
 ![img-Jianni](_attachments/img-Jianni.png)
-
-![Jianni_lvl_5](Matter%20Campaign📁/Players👤/_attachments/Jianni_lvl_5.pdf)
-
----
 ### connections
 - part of [Circle Jerkers](Matter%20Campaign📁/Clans⚔/Circle%20Jerkers.md)
+
+### character sheet
+![Jianni_lvl_5](_attachments/Jianni_lvl_5.pdf)
+
+---
 
 ### actions
 ### traits

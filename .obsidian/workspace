@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matter Campaign📁/Players👤/Jianni.md",
+                "file": "Matter Campaign📁/Clans⚔/Circle Jerkers.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matter Campaign📁/Players👤/Jianni.md",
+                "file": "Matter Campaign📁/Clans⚔/Circle Jerkers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matter Campaign📁/Players👤/Jianni.md",
+                "file": "Matter Campaign📁/Clans⚔/Circle Jerkers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matter Campaign📁/Players👤/Jianni.md"
+                "file": "Matter Campaign📁/Clans⚔/Circle Jerkers.md"
               }
             }
           },
@@ -209,15 +209,15 @@
   },
   "active": "4cad8a2395cf5136",
   "lastOpenFiles": [
-    "Matter Campaign📁/Matter🌐.md",
-    "Matter Campaign📁/Players👤/Lucas.md",
-    "Matter Campaign📁/Sessions📝/Session 999.md",
-    "Matter Campaign📁/Players👤/img-.md",
+    "Matter Campaign📁/NPCs🤖/Red Thorn.md",
     "Matter Campaign📁/NPCs🤖/Celtis.md",
-    "templates/_NPC.md",
-    "Matter Campaign📁/Players👤/Broly.md",
-    "Matter Campaign📁/Players👤/Jianni.md",
+    "Matter Campaign📁/Players👤/Silver Liota.md",
+    "Matter Campaign📁/Players👤/Lucas.md",
     "Matter Campaign📁/Players👤/LoThaRRan.md",
-    "Matter Campaign📁/Players👤/Silver Liota.md"
+    "Matter Campaign📁/Players👤/Bromdan.md",
+    "Matter Campaign📁/Players👤/Jianni.md",
+    "Matter Campaign📁/Players👤/Broly.md",
+    "Matter Campaign📁/Matter🌐.md",
+    "Matter Campaign📁/Sessions📝/Session 999.md"
   ]
 }

@@ -3,10 +3,9 @@
 | #NPC      | #half #elf | #defaultTag |
 
 #dead💀
-![img-enemy-halfelf](Matter%20Campaign📁/NPCs🤖/_attachments/img-enemy-halfelf.jpg)
+![img-enemy-halfelf](_attachments/img-enemy-halfelf.jpg)
 ### connections
-- part of the [Iron Circle](Matter%20Campaign📁/Clans⚔/Iron%20Circle.md) (but is not 100% loyal)
-- 
+- part of the [Iron Circle](Matter%20Campaign📁/Clans⚔/Iron%20Circle.md) (but is not loyal)
 
 ### description
 - very religious 

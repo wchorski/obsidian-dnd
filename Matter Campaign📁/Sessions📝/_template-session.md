@@ -1,7 +1,0 @@
-#template
-
-## Current Setting
-
----
-
-# Events

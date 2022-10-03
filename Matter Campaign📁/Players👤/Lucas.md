@@ -2,14 +2,17 @@
 | --------- | ----------- | -------- | --------------- | ------- |
 | #player   | #dragonborn | #paladin | #lawful_neutral | #level5 |
 
-![[Matter Campaign📁/Players👤/_attachments/lucas-pic-v1.jpg]]   
-![[Matter Campaign📁/Players👤/_attachments/Lucas_Laurde--Dragonborn_Paladin--Lv_5.pdf]]
+![lucas-pic-v1](_attachments/lucas-pic-v1.jpg)   
+### connections
+- part of the [Circle Jerkers](Matter%20Campaign📁/Clans⚔/Circle%20Jerkers.md)
 
+### character sheet
+![Lucas_Laurde--Dragonborn_Paladin--Lv_5](_attachments/Lucas_Laurde--Dragonborn_Paladin--Lv_5.pdf)
+
+---
 
 Damage Resistances: radiant, fire
 
-### connections
-- part of the [Circle Jerkers](Matter%20Campaign📁/Clans⚔/Circle%20Jerkers.md)
 ### ---------------Equipment-------------- 
 Backpack 
 Blanket 
