@@ -12,8 +12,12 @@
             "type": "leaf",
             "dimension": 64.27184466019418,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -113,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matter Campaign📁/Sessions📝/Session 999.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matter Campaign📁/Sessions📝/Session 999.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matter Campaign📁/Sessions📝/Session 999.md"
+                "file": "home.md"
               }
             }
           },
@@ -203,17 +207,17 @@
       }
     ]
   },
-  "active": "b175c07d52832374",
+  "active": "598d14c26033ae47",
   "lastOpenFiles": [
+    "Matter Campaign📁/Sessions📝/Session 999.md",
     "Matter Campaign📁/Players👤/Untitled.md",
     "Matter Campaign📁/Players👤/Broly.md",
     "Matter Campaign📁/Players👤/Bromdan.md",
     "Matter Campaign📁/Players👤/Jianni.md",
     "Matter Campaign📁/Locations📌/Oran's Rest.md",
     "Matter Campaign📁/Players👤/LoThaRRan.md",
-    "_index.md",
+    "home.md",
     "Matter Campaign📁/Players👤/Silver Liota.md",
-    "Matter Campaign📁/Players👤/Lucas.md",
-    "templates/_Player.md"
+    "Matter Campaign📁/Players👤/Lucas.md"
   ]
 }

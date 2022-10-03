@@ -10,7 +10,7 @@ LANDING_BUTTON = "Open The Wiki"
 LANDING_DESCRIPTION = "Dungeon & Dragons Network"
 
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "_index"
+LANDING_PAGE = "home"
 
 # (Optional) Site title on landing page
 LANDING_TITLE = "Dungeons 🐲 Dragons"
