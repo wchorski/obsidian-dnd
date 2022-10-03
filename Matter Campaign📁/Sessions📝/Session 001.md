@@ -1,5 +1,5 @@
 # Current Setting
-- Oran's Rest
+- [Oran's Rest](../Locations📌/Oran's%20Rest.md)
 ---
 
 # Events
@@ -10,7 +10,7 @@ Big noise outside!
 -   Horse neck was matted with blood
 -   Rider has thin black dart / arrow in his ribs
 
-The shot man - BURL teamster from Marrel - going to [Albridge](obsidian://open?vault=DnD&file=Matter%20Campaign%2FLocations%2FAlbridge)
+The shot man - BURL teamster from Marrel - going to [Albridge](../Locations📌/Albridge.md)
 
 -   He is on the brink of death
 -   Bromdan helps the man

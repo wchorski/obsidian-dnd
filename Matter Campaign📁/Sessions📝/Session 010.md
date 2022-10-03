@@ -1,5 +1,5 @@
 ## Current Setting
-[Harken](Matter%20Campaign📁/Locations📌/Harken.md)
+[Harken](../Locations📌/Harken.md)
 
 ---
 # Events

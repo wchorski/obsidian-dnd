@@ -5,9 +5,9 @@
 ![img-Lotharran](_attachments/img-Lotharran.png)
 
 ### connections
-- brothers with [Bromdan](Matter%20Campaign📁/Players👤/Bromdan.md)
-- part of the [Circle Jerkers](Matter%20Campaign📁/Clans⚔/Circle%20Jerkers.md)
-- - [Oran's Rest](Matter%20Campaign📁/Locations📌/Oran's%20Rest.md) native
+- brothers with [Bromdan](Bromdan.md)
+- part of the [Circle Jerkers](../Clans⚔/Circle%20Jerkers.md)
+- [Orren's Rest](../Locations📌/Orren's%20Rest.md) native
 
 ### character sheet
 ![LoThaRRan_Barr_-_lvl5](_attachments/LoThaRRan_Barr_-_lvl5.pdf)

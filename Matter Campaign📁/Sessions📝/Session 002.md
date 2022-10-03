@@ -1,10 +1,10 @@
 # Current Setting
-- Oran's Rest
+- [Oran's Rest](../Locations📌/Oran's%20Rest.md)
 ---
 
 # Events
 ### traveled to --- ???
--   Met with [Silva](obsidian://open?vault=DnD&file=Matter%20Campaign%2FPlayers%2FSilva) in log cabin
+-   Met with [Silver Liota](../Players👤/Silver%20Liota.md) in log cabin
 -   Big thunder outside from small dark cloud hanging low in the sky
 -   Gold Mine that is in the distance
 -   Goblin tracks around the Mine opening.

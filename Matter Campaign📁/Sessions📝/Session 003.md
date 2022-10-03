@@ -9,7 +9,7 @@
 	-   Make a deal to get item to rid flames
 	-   Must kill all other goblins to be the king
 	-   We murder everyone
-	-   The traitor ran and got shot n killed by [[Matter Campaign📁/Players👤/LoThaRRan]]
+	-   The traitor ran and got shot n killed by [LoThaRRan](../Players👤/LoThaRRan.md)
 
 -   Which asks to leave unharmed
 	-   We fight her anyway
@@ -20,7 +20,7 @@
 	-   Big chained door
 	-   Library of old books
 
--   Silva's teacher [[Matter Campaign📁/NPCs🤖/LueEllen]] meets us outside the Mine
+-   Silva's teacher [LueEllen](../NPCs🤖/LueEllen.md) meets us outside the Mine
 	-   Teacher was the one doing lighting strikes
 	-   LueEllen - (regious the goose)
 	-   (we now about her friend Ilyana. "she might know about the chained door"

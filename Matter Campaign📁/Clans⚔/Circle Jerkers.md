@@ -1,9 +1,9 @@
 ### description
-- band of brothers set out to destroy the [Iron Circle](Matter%20Campaign📁/Clans⚔/Iron%20Circle.md)
+- band of brothers set out to destroy the [Iron Circle](Iron%20Circle.md)
 
 # Members
 - [Broly](../Players👤/Broly.md)
 - [Bromdan](../Players👤/Bromdan.md)
-- [Jianni](Matter%20Campaign📁/Players👤/Jianni.md)
-- [LoThaRRan](Matter%20Campaign📁/Players👤/LoThaRRan.md)
-- [Lucas](Matter%20Campaign📁/Players👤/Lucas.md)
+- [Jianni](../Players👤/Jianni.md)
+- [LoThaRRan](../Players👤/LoThaRRan.md)
+- [Lucas](../Players👤/Lucas.md)

@@ -3,9 +3,9 @@
 | #player   | #dwarf | #cleric | #neutral_good | #level5 |
 ![[Matter Campaign📁/Players👤/_attachments/Bromdan.png]]
 ### connections
-- brothers with [LoThaRRan](Matter%20Campaign📁/Players👤/LoThaRRan.md)
-- part of [Circle Jerkers](Matter%20Campaign📁/Clans⚔/Circle%20Jerkers.md)
-- [Oran's Rest](Matter%20Campaign📁/Locations📌/Oran's%20Rest.md) native
+- brothers with [LoThaRRan](LoThaRRan.md)
+- part of [Circle Jerkers](../Clans⚔/Circle%20Jerkers.md)
+- [Orren's Rest](../Locations📌/Orren's%20Rest.md) native
 
 ### character sheet
 ![Bromdan_Barr_-_LV_5](_attachments/Bromdan_Barr_-_LV_5.pdf)

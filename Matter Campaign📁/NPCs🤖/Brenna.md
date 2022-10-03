@@ -6,5 +6,5 @@
 - thicc AF 
 
 ### connections
-- [Oran's Rest](Matter%20Campaign📁/Locations📌/Oran's%20Rest.md) native
-- [Jianni](Matter%20Campaign📁/Players👤/Jianni.md)'s love interest
+- [Orren's Rest](../Locations📌/Orren's%20Rest.md) native
+- [Jianni](../Players👤/Jianni.md)'s love interest

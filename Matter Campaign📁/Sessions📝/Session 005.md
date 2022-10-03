@@ -1,5 +1,5 @@
 # Current Setting
-- [[Matter Campaign📁/Locations📌/Albridge]] 
+- [Albridge](../Locations📌/Albridge.md) 
 ---
 
 # Events
