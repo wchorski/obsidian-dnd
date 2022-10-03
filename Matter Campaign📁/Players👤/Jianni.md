@@ -2,9 +2,9 @@
 | --------- | ----------------- | ----- | ------------- | ------- |
 | #player   | #half #elf #human | #bard | #chaotic_good | #level5 |
 
-![](Matter%20Campaign📁/Players👤/_attachments/img-Jianni.png)
+![img-Jianni](Matter%20Campaign📁/Players👤/_attachments/img-Jianni.png)
 
-![](Matter%20Campaign📁/Players👤/_attachments/Jianni_lvl_5.pdf)
+![Jianni_lvl_5](Matter%20Campaign📁/Players👤/_attachments/Jianni_lvl_5.pdf)
 
 ---
 ### connections

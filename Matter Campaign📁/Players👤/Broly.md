@@ -2,12 +2,12 @@
 | --------- | -------- | ---------- | ------------- | ------- |
 | #player   | #Goliath | #Barbarian | #chaotic_good | #level5 |
 
-![](Matter%20Campaign📁/Players👤/_attachments/img-broly.webp)
+![img-broly](Matter%20Campaign📁/Players👤/_attachments/img-broly.webp)
 ### connections
 - part of [Circle Jerkers](Matter%20Campaign📁/Clans⚔/Circle%20Jerkers.md)
 
 ### character sheet
-![](Matter%20Campaign📁/Players👤/_attachments/Broly_-_Lvl_5_2.pdf)
+![Broly_-_Lvl_5_2](Matter%20Campaign📁/Players👤/_attachments/Broly_-_Lvl_5_2.pdf)
 
 ---
 ### actions

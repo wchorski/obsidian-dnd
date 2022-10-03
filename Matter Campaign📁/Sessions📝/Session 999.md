@@ -30,4 +30,4 @@ storming the castle
 	1. we immediately engage in combat
 	2. [Jianni](Matter%20Campaign📁/Players👤/Jianni.md) delivers the final blow to [Red Thorn](Matter%20Campaign📁/NPCs🤖/Red%20Thorn.md)
 11. players go to the second story of the castle
-	1. 
+12. party time in [Harken](Matter%20Campaign📁/Locations📌/Harken.md)

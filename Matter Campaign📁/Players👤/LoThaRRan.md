@@ -2,9 +2,8 @@
 | --------- | ----------------- | ----- | ------------- | ------- |
 | #player   | #dwarf  | #fighter | #chaotic_neutral | #level5 |
 
+![img-Lotharran](Matter%20Campaign📁/Players👤/_attachments/img-Lotharran.png)
 
-(Pasted%20image%2020221002174008.png)
-![](Matter%20Campaign📁/Players👤/_attachments/img-Lotharran.png)
 ### connections
 - brothers with [Bromdan](Matter%20Campaign📁/Players👤/Bromdan.md)
 - part of the [Circle Jerkers](Matter%20Campaign📁/Clans⚔/Circle%20Jerkers.md)
